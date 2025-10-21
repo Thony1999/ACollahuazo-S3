@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ACollahuazo_S3.Views.vDos2"
+             Title="vDos2">
+    <VerticalStackLayout>
+        <Label 
+            Text="VISTA DOS"
+            VerticalOptions="Center"
+            FontSize="18"
+            HorizontalOptions="Center" />
+
+        <Label x:Name="lbldato1"
+                   TextColor="RED"/>
+        <Label x:Name="lbldato2"
+               TextColor="CadetBlue"/>
+
+    </VerticalStackLayout>
+</ContentPage>
