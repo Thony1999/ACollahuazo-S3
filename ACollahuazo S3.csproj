@@ -65,6 +65,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Views\vCuatro4.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\vDos2.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
